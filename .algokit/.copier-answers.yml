@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.1.4
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: hackstarr4577@gmail.com
+author_name: Hackstarr
+contract_name: task_bountys
+deployment_language: python
+preset_name: starter
+project_name: task_bountys
+
